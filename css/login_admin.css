@@ -1,0 +1,157 @@
+
+.header {
+position: fixed;
+top: 0px;
+left: 0px;
+right: 0px;
+height: 50px;
+padding: 5px 13px 11px 0px;
+width: 100%;
+color: white;
+font-family: "Mitr", sans-serif;
+margin-top: 0px;
+bottom: 0;
+background-color:none;
+}
+
+.header img {
+float: left;
+width: 15%;
+height: 50px;
+padding-left: 15px;
+padding-top:10px;
+
+}
+
+.button {
+position: relative;
+margin-top: -55px;
+margin-right: 20px;
+float: right;
+text-decoration: none;
+border: transparent;
+border-radius: 15px;
+background-color: #e60000;
+padding: 10px 10px 10px 10px;
+color: white;
+transition: 0.5s;
+}
+.button:hover {
+background-color: #D9ddd4;
+color: red;
+}
+ul{
+width: auto;
+float: right;
+margin-top: 50px;
+
+}
+
+li{
+display: inline-block;
+padding: 15px 15px;
+
+}
+a{
+text-align: center;
+color: #ffffff;
+text-decoration: none;
+font-family: 'Open Sans',sans-serif;
+font-size: 1.2vw;
+
+}
+a:hover{
+color: #F0c330;
+transition: 0.5s;
+}
+
+
+body{
+	padding-top:100px;
+	
+}
+.Aheader{
+	width: 30%;
+	margin: 50px auto 0px;
+	color: white;
+	background: #992828;
+	text-align: center;
+	border: 2px solid #f2f2f2;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px ;
+	padding: 20px;
+}
+
+
+
+
+.Aform{
+
+	width: 30%;
+	margin:0px auto;
+	padding: 20px;
+	border: 2px solid #f2f2f2;
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+
+}
+
+
+.input-groupA{
+	margin: 10px 0px 10px 0px;
+}
+
+.input-groupA label{
+	display: block;
+	text-align: left;
+	margin: 3px;
+
+}
+
+.input-groupA input{
+	height: 30px;
+	width: 93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border:2px solid grey;
+
+}
+
+.btnA{
+
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #992828;
+	border:none;
+	border-radius: 5px;
+
+
+
+
+}
+
+.error{
+
+	width: 92%;
+	margin: 0px auto;
+	padding: 10px;
+	border:1px solid #a94442;
+	color: #a94442;
+	background: #f2dede;
+	border-radius: 5px;
+	text-align: left;
+	
+}
+
+#footer {
+   position: bottom;
+   bottom:0;
+   width:100%;
+   height:40px;   /* Height of the footer */
+   color: black;
+   border-top: 2px solid white;
+   font-weight: bold;
+   margin-top: 95px;
+}

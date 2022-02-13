@@ -1,0 +1,120 @@
+
+body {
+font-family: "Mitr", sans-serif;
+background-color: rgb(240, 187, 228);
+}
+.header {
+position: fixed;
+top: 0px;
+left: 0px;
+right: 0px;
+height: 50px;
+padding: 5px 13px 11px 0px;
+width: 100%;
+color: white;
+font-family: "Mitr", sans-serif;
+margin-top: 0px;
+bottom: 0;
+background-color: rgb(248, 140, 210);
+}
+
+.header img {
+float: left;
+width: 15%;
+height: 50px;
+padding-left: 15px;
+padding-top:10px;
+
+}
+.button {
+position: relative;
+margin-top: -50px;
+margin-right: 20px;
+float: right;
+text-decoration: none;
+border: transparent;
+border-radius: 15px;
+background-color: #e60000;
+padding: 10px 10px 10px 10px;
+color: white;
+transition: 0.5s;
+}
+.button:hover {
+background-color: #D9ddd4;
+color: red;
+}
+ul{
+width: auto;
+float: right;
+margin-top: 50px;
+
+}
+
+li{
+display: inline-block;
+padding: 15px 15px;
+
+}
+a{
+text-align: center;
+color: #ffffff;
+text-decoration: none;
+font-family: 'Open Sans',sans-serif;
+font-size: 1.2vw;
+font-weight: bold;
+
+
+}
+a:hover{
+color: #F0c330;
+transition: 0.5s;
+}
+h1{
+	position: fixed;
+	padding: 3px;
+	float: left;
+	font-family: 'Alfa Slab One',cursive;
+	color: #992828;
+}
+
+
+
+.table4{
+border-collapse: collapse;
+width: 100%;
+color: #282828;
+font-family: monospace;
+font-size: 20px;
+text-align: center;
+margin-top: 200px;
+padding: 0px;
+}
+
+
+th{
+background-color: #992828;
+color: white;
+width: auto;
+}
+tr:nth-child(even){
+background-color: #f2f2f2;
+width: auto;
+}
+
+#asd{
+margin-top: 200px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
